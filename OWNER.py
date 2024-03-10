@@ -1,7 +1,7 @@
 # متطلبات التنصيب #
-OWNER = ["K_O_W_5", "IIUll_l"]
-OWNER_NAME = "ْ𓆩⧛ َ 𝘼َِ𝙁َِ𝙍َِ𝙊َِ𝙊َِ𝙏َِ𝙊ِ ┇ عـ๋͜‏ـۂفــ͡ـࢪتوُ ⧚𓆪"
-BOT_TOKEN = "6368773285:AAHTC8m6vX-6O4N7YfT27HQp0ZSQjWgdnZo"
+OWNER = ["@M_Q_ll"]
+OWNER_NAME = "ْ𝕋𝕆𝕏𝕀ℂ ‌♡⁩"
+BOT_TOKEN = "6434332622:AAGwej3HijVuEKfn88c4dvuz8QfU8l2J_60"
 DATABASE = "mongodb+srv://bot_vambir:Al2552001@cluster0.heabj.mongodb.net/vambir_bot?retryWrites=true&w=majority"
 CHANNEL = "https://t.me/UI_VM"
 GROUP = "https://t.me/YR_HX"
